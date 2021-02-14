@@ -47,7 +47,7 @@ linkedin_username: kyskaritaslife
 # About Section
 about_title: 프로그램이력 및 개인성향
 about_profile_image: images/profile.jpg
-about_content: | # this will include new lines to allow paragraphs
+about_content: # this will include new lines to allow paragraphs
       - 프로그램이력
       13년 정도 일을 하고 있다.
       자바 프로그램 언어가 주 사용언어 이고, php, solidity, go를 사용했다.
