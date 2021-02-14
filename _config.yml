@@ -48,8 +48,7 @@ linkedin_username: kyskaritaslife
 about_title: 프로그램이력 및 개인성향
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-      - 프로그램이력 |
-      13년 정도 일을 하고 있다. |
+      - 프로그램이력 | 13년 정도 일을 하고 있다. |
       자바 프로그램 언어가 주 사용언어 이고, php, solidity, go를 사용했다. |
       서버사이드 및 백엔드를 주로 개발했고,
       초창기에는 SI 프로젝트를 통해 프론트엔드개발을 하기도 했었다. (jquery 초창기까지)
